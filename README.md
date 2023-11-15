@@ -1,9 +1,12 @@
 # Ürün modülü (Case Study)
 
 ## Genel Bakış
-Selamlar, 
+Selamlar 😊
+
 Bu projenin amacı Juvenis Telekom'da çalışacak ekip arkadaşımızı değerlendirmek, bilgi seviyesini ölçmek, yazılıma bakış açısını öğrenmektir.
+
 Proje olarak 2 ekran istenmektedir. Ürün listeleme ve ürün düzenleme ekranlarının yapılması yeterlidir. 
+
 
 ## İstenilen Özellikler
 
@@ -16,6 +19,7 @@ Proje olarak 2 ekran istenmektedir. Ürün listeleme ve ürün düzenleme ekranl
 - ProductSettings için aynı ekranda bir tablo içerisinde (Datatable kullanılmasına gerek yoktur), ekleme, düzenleme, silme yapılabilmelidir. 
     - SettingId için Dropdown kullanılması beklenmektedir. Dropdown içeriği setting.json dosyasından alınacaktır.
     - Value için input InputText kullanılması beklenmektedir.
+
 
 ## Kullanılacak Teknoloji
 - **Programlama Dili:** React.js
