@@ -18,7 +18,7 @@ Proje olarak 2 ekran istenmektedir. Ürün listeleme ve ürün düzenleme ekranl
 - CategoryId için Dropdown kullanılarak kategori seçilmesi beklenmektedir. Dropdown içeriği category.json dosyasından alınacaktır.
 - ProductSettings için aynı ekranda bir tablo içerisinde (Datatable kullanılmasına gerek yoktur), ekleme, düzenleme, silme yapılabilmelidir. 
     - SettingId için Dropdown kullanılması beklenmektedir. Dropdown içeriği setting.json dosyasından alınacaktır.
-    - Value için input InputText kullanılması beklenmektedir.
+    - Value için InputText kullanılması beklenmektedir.
 
 
 ## Kullanılacak Teknoloji
